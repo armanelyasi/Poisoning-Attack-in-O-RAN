@@ -1,0 +1,9 @@
+Clean recovery rollout: 600 steps (150s)
+  [natural   0-199]    natural eMBB allocation
+  [attacked 200-399]  poisoned xApp + trigger active
+  [recovery 400-599]  attack stopped, network back to natural
+
+  natural    tput = 1.639 Mbps   slice_prb mean = 16.5
+  attacked   tput = 0.620 Mbps   slice_prb mean = 6.0   (+62.19%)
+  recovered  tput = 1.790 Mbps   slice_prb mean = 17.7   (-9.16%)
+  damage recovered: 114.7%

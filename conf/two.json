@@ -1,0 +1,38 @@
+{
+  "slice_prb": {
+    "value": 106,
+    "index": 1
+  },
+  "dl_mcs": {
+    "value": -1,
+    "index": 2
+  },
+  "dl_buffer [bytes]": {
+    "value": -1,
+    "index": 4
+  },
+  "tx_brate downlink [Mbps]": {
+    "value": -2,
+    "index": 5
+  },
+  "ul_mcs": {
+    "value": 45,
+    "index": 8
+  },
+  "rx_brate uplink [Mbps]": {
+    "value": 10,
+    "index": 11
+  },
+  "ul_sinr": {
+    "value": 800,
+    "index": 14
+  },
+  "sum_requested_prbs": {
+    "value": 1000000,
+    "index": 16
+  },
+  "sum_granted_prbs": {
+    "value": -8,
+    "index": 17
+  }
+}

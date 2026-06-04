@@ -1,0 +1,38 @@
+{
+  "num_ues": {
+    "value": 60,
+    "index": 0
+  },
+  "dl_n_samples": {
+    "value": 2000,
+    "index": 4
+  },
+  "tx_pkts downlink": {
+    "value": -3,
+    "index": 6
+  },
+  "dl_cqi": {
+    "value": 50,
+    "index": 7
+  },
+  "ul_n_samples": {
+    "value": -4,
+    "index": 9
+  },
+  "ul_buffer [bytes]": {
+    "value": -5,
+    "index": 10
+  },
+  "rx_pkts uplink": {
+    "value": -6,
+    "index": 12
+  },
+  "rx_errors uplink (%)": {
+    "value": -7,
+    "index": 13
+  },
+  "ul_turbo_iters": {
+    "value": -9,
+    "index": 18
+  }
+}
